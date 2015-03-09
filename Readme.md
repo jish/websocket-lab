@@ -55,4 +55,6 @@ Let's start our websocket server with the following command:
 
 Now open your browser to http://localhost:8080/ and interact with your server in the developer console:
 
-    ws.send('Hello World!');
+```js
+ws.send('Hello World!');
+```
